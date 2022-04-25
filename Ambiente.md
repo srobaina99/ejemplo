@@ -14,7 +14,7 @@ Anaconda es una distribución de Python y R pensada especialmente para desarroll
 
 Anaconda y sus paquetes están disponible para todas las plataformas (Linux, Windows, Mac OS X). 
 
-Para instalar Anaconda, descárgue la versión para Python 3.7 correspondiente a su Sistema Operativo [aquí](https://www.anaconda.com/distribution/#download-section).  Una vez instalado, hay dos formas principales de acceder:
+Para instalar Anaconda, descárgue la versión para Python 3.X correspondiente a su Sistema Operativo [aquí](https://www.anaconda.com/distribution/#download-section).  Una vez instalado, hay dos formas principales de acceder:
 
 - Vía la línea de comandos, utilizando conda
 - Vía un navegador gráfico llamado Anaconda Navigator. 
