@@ -1,6 +1,6 @@
-# Introducción a la Ciencia de Datos 2023
+# Introducción a la Ciencia de Datos 2024
 
-Este repositorio contiene las letras y notebooks de las tareas propuestas para la edición 2023 del curso de Introducción a la Ciencia de Datos.
+Este repositorio contiene las letras y notebooks de las tareas propuestas para la edición 2024 del curso de Introducción a la Ciencia de Datos.
 
 En general, el procedimiento para correr los notebooks es simplemente instalar los requerimientos y levantar el servidor de jupyter:
 ```sh
